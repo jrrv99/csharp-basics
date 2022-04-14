@@ -1,0 +1,15 @@
+C:\Users\HERMANO\Desktop\c#\p5\bin\Debug\net6.0\p5.exe
+C:\Users\HERMANO\Desktop\c#\p5\bin\Debug\net6.0\p5.deps.json
+C:\Users\HERMANO\Desktop\c#\p5\bin\Debug\net6.0\p5.runtimeconfig.json
+C:\Users\HERMANO\Desktop\c#\p5\bin\Debug\net6.0\p5.dll
+C:\Users\HERMANO\Desktop\c#\p5\bin\Debug\net6.0\p5.pdb
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\p5.csproj.AssemblyReference.cache
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\p5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\p5.AssemblyInfoInputs.cache
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\p5.AssemblyInfo.cs
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\p5.csproj.CoreCompileInputs.cache
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\p5.dll
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\refint\p5.dll
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\p5.pdb
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\p5.genruntimeconfig.cache
+C:\Users\HERMANO\Desktop\c#\p5\obj\Debug\net6.0\ref\p5.dll
