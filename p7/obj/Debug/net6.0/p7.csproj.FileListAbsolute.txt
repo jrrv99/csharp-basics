@@ -1,0 +1,15 @@
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\p7.csproj.AssemblyReference.cache
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\p7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\p7.AssemblyInfoInputs.cache
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\p7.AssemblyInfo.cs
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\p7.csproj.CoreCompileInputs.cache
+C:\Users\HERMANO\Desktop\c#\p7\bin\Debug\net6.0\p7.exe
+C:\Users\HERMANO\Desktop\c#\p7\bin\Debug\net6.0\p7.deps.json
+C:\Users\HERMANO\Desktop\c#\p7\bin\Debug\net6.0\p7.runtimeconfig.json
+C:\Users\HERMANO\Desktop\c#\p7\bin\Debug\net6.0\p7.dll
+C:\Users\HERMANO\Desktop\c#\p7\bin\Debug\net6.0\p7.pdb
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\p7.dll
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\refint\p7.dll
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\p7.pdb
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\p7.genruntimeconfig.cache
+C:\Users\HERMANO\Desktop\c#\p7\obj\Debug\net6.0\ref\p7.dll
