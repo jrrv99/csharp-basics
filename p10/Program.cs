@@ -1,13 +1,16 @@
 ﻿using _Custom;
+using Escuelas;
 
-class Program: Custom
+class Program : Custom
 {
-  public static void Main() {
+  public static void Main()
+  {
     mainAction();
   }
 
-  public static void mainAction() {
-    //Instancia de HoC
+  public static void mainAction()
+  {
+    Escuela escuela = new Escuela();
     int opt = -1;
 
     do
@@ -23,31 +26,87 @@ class Program: Custom
           pause("¡Hasta Luego! \n¡Presione Enter para Salir!");
           break;
         case 1:
-          depositar (banco);
+          registrarUser (escuela);
           break;
         case 2:
-          retirar (banco);
+          registrarUserEnCurso (escuela);
           break;
         case 3:
-          consultar (banco);
+          consultarPresentados (escuela);
+          break;
+        case 4:
+          consultar (escuela);
           break;
         default:
           pause("¡Ingrese una opcion validad! \n¡Presione Enter!");
           break;
       }
-      }
-    } while (opt != 0);
+    }
+    while (opt != 0);
   }
 
   public static void menu()
   {
     clear();
     writeLine("**** Taller de motos El Maquinista  **** \n");
-    writeLine("\t 1.- Registrar nueva moto");
-    writeLine("\t 2.- Retirar moto");
-    writeLine("\t 3.- Lista de Motos");
+    writeLine("\t 1.- Registrar usuario");
+    writeLine("\t 2.- Presentar curso");
+    writeLine("\t 3.- Lista de usuarios que han presentado");
+    writeLine("\t 4.- Consultar resultado del curso");
     writeLine("\t 0.- Salir");
     write("\n Ingrese una opcion: ");
   }
 
+  public static void registrarUser(Escuela escuela)
+  {
+    string name;
+
+    writeLine("******** Registro de Usuario ********");
+
+    write("Nombre: ");
+    name = Console.ReadLine();
+
+    escuela.createUser(name);
+
+    clear();
+
+    writeLine("Se ha agregado correctamente");
+
+    pause("\nPresione ENTER para volver al menu principal");
+  }
+
+  public static void registrarUserEnCurso(Escuela escuela)
+  {
+    int userId;
+    bool aprobado;
+    escuela.printUsers();
+
+    write("Ingrese numero de usuario: ");
+    userId = int.Parse(Console.ReadLine());
+
+    write("Aprobo el curso? (s/Si - n/No): ");
+    aprobado = (Console.ReadLine() == "s") ? true : false;
+
+    escuela.presentarCurso (userId, aprobado);
+
+    clear();
+
+    write("Se ha registrado el usuario en el curso");
+
+    pause("\nPresione ENTER para volver al menu principal");
+  }
+
+  public static void consultarPresentados(Escuela escuela)
+  {
+    escuela.listaQuePresentaron();
+
+    pause("\nPresione ENTER para volver al menu principal");
+  }
+
+  public static void consultar(Escuela escuela)
+  {
+    escuela.printUsers();
+
+    pause("\nPresione ENTER para volver al menu principal");
+  }
 }
