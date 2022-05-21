@@ -1,0 +1,15 @@
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\3. termoelectrica.csproj.AssemblyReference.cache
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\3. termoelectrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\3. termoelectrica.AssemblyInfoInputs.cache
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\3. termoelectrica.AssemblyInfo.cs
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\3. termoelectrica.csproj.CoreCompileInputs.cache
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\bin\Debug\net6.0\3. termoelectrica.exe
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\bin\Debug\net6.0\3. termoelectrica.deps.json
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\bin\Debug\net6.0\3. termoelectrica.runtimeconfig.json
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\bin\Debug\net6.0\3. termoelectrica.dll
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\bin\Debug\net6.0\3. termoelectrica.pdb
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\3. termoelectrica.dll
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\refint\3. termoelectrica.dll
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\3. termoelectrica.pdb
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\3. termoelectrica.genruntimeconfig.cache
+C:\Users\HERMANO\Desktop\ws\workspaces\c#\3. termoelectrica\obj\Debug\net6.0\ref\3. termoelectrica.dll
